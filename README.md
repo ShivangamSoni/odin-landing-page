@@ -2,9 +2,11 @@
 
 This is a Landing Page created using the Design Provided by The Odin Project.
 
-## Design
+[Live Demo](https://ShivangamSoni.github.io/odin-landing-page)
 
-![](./design/odin-project.png)
+| Design                         | Result                    |
+| ------------------------------ | ------------------------- |
+| ![](./design/odin-project.png) | ![](./design/fnished.png) |
 
 ## Color & Font Scheme
 
